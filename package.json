@@ -1,0 +1,27 @@
+{
+  "name": "mathkards-api",
+  "version": "0.1.0",
+  "description": "RESTful API to power the MathKards application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gitmathias/mathkards-api.git"
+  },
+  "keywords": [
+    "MathKards",
+    "Krypto",
+    "API"
+  ],
+  "author": "Mathias Gran",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gitmathias/mathkards-api/issues"
+  },
+  "homepage": "https://github.com/gitmathias/mathkards-api#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
