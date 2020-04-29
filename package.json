@@ -23,5 +23,8 @@
   "homepage": "https://github.com/gitmathias/mathkards-api#readme",
   "dependencies": {
     "express": "^4.13.4"
+  },
+  "engines": {
+    "node": "4.x"
   }
 }
